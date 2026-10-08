@@ -1,6 +1,4 @@
-# Hello Word!
-
-I'm Carlos Henrique (CH)
+# Hello Word! I'm Carlos Henrique (CH)
 
 > Full Stack Developer passionate about technology. I believe the best way to tackle complex challenges is by solving problems with simple and efficient solutions. Combining years of corporate systems support with hands-on freelance software development, I deliver reliable, end-to-end web applications tailored to real business needs.
 
